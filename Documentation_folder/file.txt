@@ -1,0 +1,1 @@
+Add a file to show untracked files icons in file explorer
