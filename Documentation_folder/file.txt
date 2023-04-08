@@ -1,1 +1,3 @@
 Add a file to show untracked files icons in file explorer
+
+Add text to show Commit and Push buttons
